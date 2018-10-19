@@ -1,0 +1,29 @@
+*{
+    margin: 8px 160px;
+    padding: 0;
+
+}
+body {
+         /*background-image: url(2.gif);*/
+         background:    #40E0D0;
+           /* display: flex;*/
+            align-items: center;
+            justify-content: center;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+   
+}
+
+
+
+ canvas {
+background: white;
+border: 5px solid white;
+ box-shadow: 15px 5px 34px 20px rgba(0,0,0,0.75);
+}
+
+span {
+    color: red;
+}
